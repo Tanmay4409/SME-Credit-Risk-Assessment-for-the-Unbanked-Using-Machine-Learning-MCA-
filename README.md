@@ -33,14 +33,6 @@ or open and run the notebook in the `juypter` folder with Jupyter/Lab.
 - Large files such as `data.csv`, `data_balanced.csv`, `model.pkl`, `columns.pkl`, and `encoders.pkl` are intentionally excluded from the repository (listed in `.gitignore`).
 - To store large files in Git, use Git LFS:
 
-```bash
-git lfs install
-git lfs track "juypter/data.csv"
-git add .gitattributes
-git add juypter/data.csv
-git commit -m "Add large dataset via Git LFS"
-git push origin main
-```
 
 **License**
 - This project is licensed under the MIT License — see [LICENSE](../LICENSE) for details.
