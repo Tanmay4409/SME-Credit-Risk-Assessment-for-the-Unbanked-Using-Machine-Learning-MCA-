@@ -42,9 +42,6 @@ git commit -m "Add large dataset via Git LFS"
 git push origin main
 ```
 
-**Notes**
-- If you want me to add a `requirements.txt` or set up Git LFS for the large artifacts, tell me and I will do it.
-
 **License & Credits**
 - Add a license (e.g., MIT) if you want to release this publicly.
 
