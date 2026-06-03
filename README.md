@@ -6,6 +6,9 @@ A small project demonstrating credit-risk modelling for micro and small enterpri
 - Streamlit app for model inference and visualization.
 - Notebook with data exploration and model training located in the `juypter` folder.
 - Large raw data and model artifacts are excluded from the repository (see Data & Model files).
+- SS:
+  <img width="1470" height="800" alt="Img" src="https://github.com/user-attachments/assets/da38e8db-f2d6-4754-9b89-4d1aeea7ad80" />
+
 
 **Project Structure**
 - `app.py` — Streamlit application (run with `streamlit run app.py`).
