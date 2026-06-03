@@ -7,7 +7,7 @@ A small project demonstrating credit-risk modelling for micro and small enterpri
 - Notebook with data exploration and model training located in the `juypter` folder.
 - Large raw data and model artifacts are excluded from the repository (see Data & Model files).
 - SS:
-  <img width="1470" height="800" alt="Img" src="https://github.com/user-attachments/assets/da38e8db-f2d6-4754-9b89-4d1aeea7ad80" />
+  <img width="1470" height="800" alt="Img" src="https://github.com/user-attachments/assets/2ade378a-d90f-4f06-97ed-746c2d018909" />
 
 
 **Project Structure**
