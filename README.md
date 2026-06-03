@@ -1,0 +1,52 @@
+# SME Credit Risk Assessment for the Unbanked
+
+A small project demonstrating credit-risk modelling for micro and small enterprises (SMEs) with an interactive Streamlit app and supporting Jupyter notebook.
+
+**Quick Overview**
+- Streamlit app for model inference and visualization.
+- Notebook with data exploration and model training located in the `juypter` folder.
+- Large raw data and model artifacts are excluded from the repository (see Data & Model files).
+
+**Project Structure**
+- `app.py` — Streamlit application (run with `streamlit run app.py`).
+- `main.py` — auxiliary scripts for training/evaluation (if present).
+- `juypter/` — Jupyter notebook and supporting files (`main.ipynb`, data, model artifacts).
+- `.gitignore` — excludes large dataset and model files.
+
+**Requirements**
+- Python 3.8+
+- Install core packages:
+
+```bash
+pip install streamlit pandas scikit-learn joblib matplotlib seaborn jupyter
+```
+
+**Running the app**
+
+```bash
+streamlit run app.py
+```
+
+or open and run the notebook in the `juypter` folder with Jupyter/Lab.
+
+**Data & Model files**
+- Large files such as `data.csv`, `data_balanced.csv`, `model.pkl`, `columns.pkl`, and `encoders.pkl` are intentionally excluded from the repository (listed in `.gitignore`).
+- To store large files in Git, use Git LFS:
+
+```bash
+git lfs install
+git lfs track "juypter/data.csv"
+git add .gitattributes
+git add juypter/data.csv
+git commit -m "Add large dataset via Git LFS"
+git push origin main
+```
+
+**Notes**
+- If you want me to add a `requirements.txt` or set up Git LFS for the large artifacts, tell me and I will do it.
+
+**License & Credits**
+- Add a license (e.g., MIT) if you want to release this publicly.
+
+**Contact**
+- Created by Tanmay — reach out in the repo issues for questions.
