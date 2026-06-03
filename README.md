@@ -42,8 +42,8 @@ git commit -m "Add large dataset via Git LFS"
 git push origin main
 ```
 
-**License & Credits**
-- Add a license (e.g., MIT) if you want to release this publicly.
+**License**
+- This project is licensed under the MIT License — see [LICENSE](../LICENSE) for details.
 
-**Contact**
+**Credits**
 - Created by Tanmay — reach out in the repo issues for questions.
