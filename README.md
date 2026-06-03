@@ -33,6 +33,7 @@ or open and run the notebook in the `juypter` folder with Jupyter/Lab.
 
 **Data & Model files**
 - Large files such as `data.csv`, `data_balanced.csv`, `model.pkl`, `columns.pkl`, and `encoders.pkl` are intentionally excluded from the repository (listed in `.gitignore`).
+- You'll only need the dataset apart for the given files other files will automatically generated from the main.py file
 
 **IMP**
 -'Download the dataset from: https://mega.nz/file/BT1XnKDZ#_ptGgIGKwsA4hmj_ZurXrhRflQGoyAPxqqWEvVeByME '
