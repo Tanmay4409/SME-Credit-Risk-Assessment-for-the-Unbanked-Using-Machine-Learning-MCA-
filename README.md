@@ -8,7 +8,6 @@ A small project demonstrating credit-risk modelling for micro and small enterpri
 - SS:
   <img width="1470" height="800" alt="Img" src="https://github.com/user-attachments/assets/2ade378a-d90f-4f06-97ed-746c2d018909" />
 
-
 **Project Structure**
 - `app.py` — Streamlit application (run with `streamlit run app.py`).
 - `main.py` — auxiliary scripts for training/evaluation (if present).
@@ -37,7 +36,6 @@ or open and run the notebook in the `juypter` folder with Jupyter/Lab.
 
 **IMP**
 -'Download the dataset from: https://mega.nz/file/BT1XnKDZ#_ptGgIGKwsA4hmj_ZurXrhRflQGoyAPxqqWEvVeByME '
-
 
 **License**
 - This project is licensed under the MIT License — see [LICENSE](../LICENSE) for details.
