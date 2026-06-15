@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # File paths
-MODEL_FILE = "model.pkl"
+MODEL_FILE = "model_gb_tuned.pkl"
 COLUMNS_FILE = "columns.pkl"
 ENCODERS_FILE = "encoders.pkl"
 # Page config
